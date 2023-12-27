@@ -1,0 +1,3 @@
+[submodule "gdrl"]
+	path = gdrl
+	url = https://github.com/mimoralea/gdrl.git
